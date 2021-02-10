@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Pacifico&display=swap');
+
+body {
+    font-family: Nanum Gothic;
+    font-size: 30px;
+    padding: 70px;
+}
+h1 {
+    font-family: Pacifico;
+    font-size: 400px;
+    padding: 200px; 
+}
