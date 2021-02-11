@@ -2,11 +2,12 @@
 
 body {
     font-family: Nanum Gothic;
-    font-size: 30px;
-    padding: 70px;
+    font-size: 20px;
+    background-color: pink
 }
 h1 {
     font-family: Pacifico;
-    font-size: 400px;
-    padding: 200px; 
+    font-size: 100px;
+    text-align: center;
+    color: orchid;
 }
