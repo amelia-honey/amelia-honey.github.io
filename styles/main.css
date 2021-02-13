@@ -29,6 +29,9 @@ img {
     color:#f08cae;
     text-align: center;
 }
+.red-text {
+    color: #c62e65
+}
 #my-name {
     font-family: Dancing Script;
     font-size: 80px;
