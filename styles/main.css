@@ -6,7 +6,7 @@ body {
 p {
     font-family: Nanum Gothic;
     font-size: 20px;
-    margin: 120px;
+    margin: 40px;
 }
 #profile {
     display: block;
@@ -26,7 +26,7 @@ p {
     padding-left: 50px;
     padding-right:50px;
     padding-bottom: 50px;
-    color:#f08cae;
+    color:orchid;
     text-align: center;
 }
 .red-text {
@@ -38,7 +38,7 @@ p {
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
-    color: #f08cae;
+    color: orchid;
     text-align: center;
 }
 .screenshot {
