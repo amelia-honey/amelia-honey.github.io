@@ -11,9 +11,3 @@ body {
     text-align: center;
     color: orchid;
 }
-#mainphoto {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
