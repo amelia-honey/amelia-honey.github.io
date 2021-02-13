@@ -11,6 +11,7 @@ img {
     margin-left: auto;
     margin-right: auto;
     width: 10%;
+    border-radius: 20%;
   }
 .heading {
     font-family: Dancing Script;
@@ -19,4 +20,13 @@ img {
     margin-right: auto;
     padding: 50px;
     color: orchid
+}
+#my-name {
+    font-family: Dancing Script;
+    font-size: 80px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 50px;
+    color: orchid;
+    text-align: center;
 }
