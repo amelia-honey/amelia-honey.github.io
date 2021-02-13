@@ -17,6 +17,7 @@ img {
     width: 10%;
     border-radius: 20%;
   }
+
 .heading {
     font-family: Dancing Script;
     font-size: 45px;
@@ -25,7 +26,7 @@ img {
     padding-left: 50px;
     padding-right:50px;
     padding-bottom: 50px;
-    color: orchid;
+    color:#f08cae;
     text-align: center;
 }
 #my-name {
