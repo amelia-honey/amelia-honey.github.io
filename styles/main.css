@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Nanum+Gothic&display=swap');
 
 body {
-    background-color: #a4f9c8;
+    background-color: #dce0d9;
 }
 p {
     font-family: Nanum Gothic;
@@ -38,6 +38,6 @@ img {
     margin-left: auto;
     margin-right: auto;
     padding: 50px;
-    color: orchid;
+    color: #f08cae;
     text-align: center;
 }
