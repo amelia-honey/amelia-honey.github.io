@@ -53,3 +53,7 @@ body {
     color: #eBa6a9;
     align-items: center;
 }
+.dumb-content {
+    align-items: center;
+    margin: 20px;
+}
