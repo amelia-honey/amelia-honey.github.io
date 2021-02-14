@@ -48,3 +48,7 @@ body {
     margin: 40px;
     width: 50%;
 }
+.main-content {
+    max-width: 50%;
+    color: #eBa6a9
+}
