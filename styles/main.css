@@ -3,7 +3,7 @@
 body {
     background-color: #dce0d9;
 }
-p {
+.main-text {
     font-family: Nanum Gothic;
     font-size: 20px;
     margin-top: 20px;
