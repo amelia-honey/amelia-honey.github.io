@@ -50,5 +50,6 @@ body {
 }
 .main-content {
     max-width: 50%;
-    color: #eBa6a9
+    color: #eBa6a9;
+    align-items: center;
 }
