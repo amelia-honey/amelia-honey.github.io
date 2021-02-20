@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@500&family=Nanum+Gothic&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
 body {
     background-color: #dce0d9;
 }
@@ -22,7 +22,7 @@ body {
   }
 
 .heading {
-    font-family: Dancing Script;
+    font-family: Shadows Into Light;
     font-size: 45px;
     margin-left: auto;
     margin-right: auto;
